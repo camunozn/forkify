@@ -18,5 +18,13 @@
     "fractional": "^1.0.0",
     "fracty": "^1.0.11",
     "regenerator-runtime": "^0.13.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camunozn/forkify.git"
+  },
+  "bugs": {
+    "url": "https://github.com/camunozn/forkify/issues"
+  },
+  "homepage": "https://github.com/camunozn/forkify#readme"
 }
